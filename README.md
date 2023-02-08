@@ -17,6 +17,6 @@
 # LXML
 *LXML is the most feature-rich and easy to use library in the python language.
 * It provide a very simple and powerful API for parsing XMLand HTML.
-# Documentatioi
+# Documentation
 * link - https://docs.python-requests.org/en/latest/
 * link - https://beautiful-soup-4.readthedocs.io/en/latest/
